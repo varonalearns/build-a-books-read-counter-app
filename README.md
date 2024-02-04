@@ -1,4 +1,4 @@
-# Build a Passenger Counter App
+# Build a Books Read Counter App
 
 ## Summary
 This is my solution to Build a Passenger Counter App lesson from The Frontend Developer Career Path that can be found on [Scrimba](https://scrimba.com/). I personalized it to count the number of books I have read rather than count passengers.
